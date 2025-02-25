@@ -1,0 +1,13 @@
+numpy
+pandas
+Pillow
+torch
+torchvision
+faiss-cpu
+tqdm
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+opencv-python
+face_alignment
